@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"/c/Users/전재완/Desktop\" && ls -la 2>&1 | head -50)",
+      "Read(//c/Users/전재완/Desktop/**)"
+    ]
+  }
+}

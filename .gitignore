@@ -1,0 +1,9 @@
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+__MACOSX/
+**/__MACOSX/
+streamlit실습-1/streamlit-1/
+.DS_Store
+**/.DS_Store
